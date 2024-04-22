@@ -1,0 +1,3 @@
+[submodule "src/moos-ros-bridge"]
+	path = src/moos-ros-bridge
+	url = https://github.com/SyllogismRXS/moos-ros-bridge
